@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FirebasePushNotificationTest</string>
+    <string name="preference_file_key">WibellSharedPrefs</string>
+    <string name="title_activity_login">Sign in</string>
+
+    
+</resources>
